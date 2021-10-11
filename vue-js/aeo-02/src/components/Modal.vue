@@ -51,10 +51,9 @@ export default {
     }
 
     .close-button {
-        position: relative;
-        float: right;
-        bottom: 530px;
-
+        position: absolute;
+        bottom: 70%;
+        left: 78%;
         color: black;
         border: none;
         background-color: white;
